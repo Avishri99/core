@@ -30,4 +30,4 @@ flag_management:
     - name: full-suite
       paths:
         - ".*"
-      carryforward: true
+      carryforward: false
